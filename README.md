@@ -49,4 +49,4 @@ Shopping-Behavior-Analysis/
 💼 **LinkedIn:** [linkedin.com/in/nitishkumar-khavekar](https://www.google.com/search?q=https://www.linkedin.com/in/nitishkumar-khavekar)  
 💻 **GitHub:** [github.com/Nitishkumarkhavekar](https://www.google.com/search?q=https://github.com/Nitishkumarkhavekar)
 
-\> Analysis (Logic) -\> Power BI (Visualization).
+
